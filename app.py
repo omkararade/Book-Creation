@@ -9,6 +9,7 @@ from docx import Document as DocxDocument
 from docx.shared import Pt
 from dotenv import load_dotenv
 from openai import OpenAI
+from dotenv import load_dotenv
 
 # Add PDF library with better Unicode support
 try:

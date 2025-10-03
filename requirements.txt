@@ -7,3 +7,4 @@ openai
 googlesearch-python
 serpapi
 python-dotenv
+fpdf
