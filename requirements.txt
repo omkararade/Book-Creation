@@ -6,3 +6,4 @@ python-docx
 openai
 googlesearch-python
 serpapi
+python-dotenv
