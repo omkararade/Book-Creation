@@ -1,0 +1,8 @@
+streamlit
+requests
+beautifulsoup4
+readability-lxml
+python-docx
+openai
+googlesearch-python
+serpapi
